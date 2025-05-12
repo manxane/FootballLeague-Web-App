@@ -19,10 +19,6 @@ A Java EE web application designed to manage football league operations through 
 - Schedule matches
 - View league performance reports
 
-### 🧑‍🏫 Coach
-- View and manage their team's player list
-- Submit match results
-- Access match schedules
 
 ### 🙋‍♂️ Supporter
 - View match fixtures and results
